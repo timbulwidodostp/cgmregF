@@ -1,4 +1,5 @@
-D 'suradf': Series-specific SUR-ADF panel unit root test (Breuer, McNown and Wallace 2002) Use suradf With STATA 19
-F suradf.ado
-F suradf.sthlp
-F suradf_methods.sthlp
+D 'cgmregF': Regressions with confidence intervals of ratios of coefficients and multi-way clustered standard errors Use cgmregF With STATA 19
+F cgmregF.ado
+F cgmregF.hlp
+F unique.ado
+F unique.sthlp
